@@ -2,6 +2,6 @@
 channel: stable
 addons:
   adguard:
-    repository: hassio-addons/addon-adguard-home
-    target: adguard
-    image: ghcr.io/hassio-addons/adguard/{arch}
+    repository: oznu/homebridge
+    target: homebridge
+    image: oznu/homebridge
