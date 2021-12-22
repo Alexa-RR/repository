@@ -643,10 +643,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v4.2.0
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v4.2.0/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v4.4.0
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v4.4.0/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v4.2.0-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v4.4.0-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -724,10 +724,10 @@ SOFTWARE.
 [foldingathome-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [foldingathome-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [foldingathome-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/v0.14.0
-[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/v0.14.0/README.md
+[addon-glances]: https://github.com/hassio-addons/addon-glances/tree/v0.14.1
+[addon-doc-glances]: https://github.com/hassio-addons/addon-glances/blob/v0.14.1/README.md
 [glances-issue]: https://github.com/hassio-addons/addon-glances/issues
-[glances-version-shield]: https://img.shields.io/badge/version-v0.14.0-blue.svg
+[glances-version-shield]: https://img.shields.io/badge/version-v0.14.1-blue.svg
 [glances-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [glances-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [glances-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -742,10 +742,10 @@ SOFTWARE.
 [grafana-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [grafana-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grafana-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/v0.15.0
-[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/v0.15.0/README.md
+[addon-grocy]: https://github.com/hassio-addons/addon-grocy/tree/v0.16.0
+[addon-doc-grocy]: https://github.com/hassio-addons/addon-grocy/blob/v0.16.0/README.md
 [grocy-issue]: https://github.com/hassio-addons/addon-grocy/issues
-[grocy-version-shield]: https://img.shields.io/badge/version-v0.15.0-blue.svg
+[grocy-version-shield]: https://img.shields.io/badge/version-v0.16.0-blue.svg
 [grocy-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grocy-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -814,10 +814,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v10.2.1
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v10.2.1/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v10.2.2
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v10.2.2/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v10.2.1-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v10.2.2-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -931,10 +931,10 @@ SOFTWARE.
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [unifi-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [unifi-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/v0.14.0
-[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/v0.14.0/README.md
+[addon-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/tree/v0.14.1
+[addon-doc-bitwarden]: https://github.com/hassio-addons/addon-bitwarden/blob/v0.14.1/README.md
 [bitwarden-issue]: https://github.com/hassio-addons/addon-bitwarden/issues
-[bitwarden-version-shield]: https://img.shields.io/badge/version-v0.14.0-blue.svg
+[bitwarden-version-shield]: https://img.shields.io/badge/version-v0.14.1-blue.svg
 [bitwarden-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [bitwarden-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
